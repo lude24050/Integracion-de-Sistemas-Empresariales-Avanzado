@@ -1,0 +1,17 @@
+Conclusiones:
+-Hicimos la instalacion de Odoo en Ubuntu para poder hacer el deploy
+de nuestro proyecto
+-Odoo utiliza la base de datos Postgres porque este es gratuito y libre
+-Aprendimos a proporcionar el ubuntu server una interfaz grafica, ya que esta es necesaria
+para poder ejecutar Odoo
+-Es importante no olvidar las credenciales nuestra base de datos, ya que esta se utilizara
+para poder conectar con Odoo
+-la interfaz de Odoo es muy amigable y facil de usar, nos muestra los modulos mas 
+importante o mas usados, pero en su tiene una infinidad de modulos
+
+Observaciones:
+-Utilizamos el programa PgAdmin para poder conectarnos a nuestra base de datos postgres
+-Utilize diferentes comandos para poder instalar google chrome, los que se dio en laboratorio
+arrojaban un erro de conexion con el repositorio
+-Es necesario actualizar los paquetes de Ubuntu para poder correr algunos comandos
+ 
