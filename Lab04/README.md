@@ -3,10 +3,10 @@
 ## Desarrollo
 
 1.2. Instalacion del modulo **Inventarios**
-![odoo image](Imagenes/Instalacion_modulo_inventarios.png)
+![odoo image](Imagenes/Instalacion_modulo_inventarios.PNG)
 
 1.2. Vista del modulo **Inventarios**
-![odoo image](Imagenes/Modulo_inventarios.png)
+![odoo image](Imagenes/Modulo_inventarios.PNG)
 
 1.2. En el menu de configuraciones, activamos la opcion  **Multialmacen** y guardamos, con esto podemos ver la opcion para poder añadir mas almacenes
 ![Mi gif](Imagenes/activacion_multialmacen.gif)
